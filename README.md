@@ -1,2 +1,2 @@
 # mipt-summer-school
-Computational linguistic course for MIPT summer school.
+Computational linguistics course for MIPT summer school.
