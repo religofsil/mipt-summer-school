@@ -1,0 +1,4 @@
+VK api:
+https://github.com/elmiram/2017learnpython/blob/master/14%20VK.ipynb
+Tweepy:
+https://github.com/elmiram/2016learnpython/blob/master/Tweepy.ipynb
